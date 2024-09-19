@@ -1,0 +1,16 @@
+{
+  "name": "unit-testing-and-error-handling---lab",
+  "version": "1.0.0",
+  "main": "deckOfCards.js",
+  "scripts": {
+    "test": "mocha ./*.test.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^5.1.0",
+    "mocha": "^10.3.0"
+  },
+  "description": ""
+}
